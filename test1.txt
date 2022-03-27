@@ -1,2 +1,3 @@
 test başladı
 ikinci satır yazıldı.
+üçüncü komit atıldı
